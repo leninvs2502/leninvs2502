@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leninvs2502
 - 👀 I’m interested in travelling, movies and technology
-- 🌱 I’m currently learning cloud computing and programming
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me, via email
 
